@@ -1,6 +1,7 @@
 # destini
 
-A new Flutter project.
+A new Flutter project. 
+It is like buliding a choose your own adventure game or story line.
 
 ## Getting Started
 
